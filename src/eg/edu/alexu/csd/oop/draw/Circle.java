@@ -8,6 +8,7 @@ import java.awt.Point;
 import java.util.HashMap;
 import java.util.Map;
 
+// circle class 
 public class Circle extends IShape{
 	Color fillColor ;
 	Color color  ;
